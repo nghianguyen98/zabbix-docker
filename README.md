@@ -29,7 +29,7 @@ zabbix-stack/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nghianguyen98/zabbix-stack.git
+git clone https://github.com/nghianguyen98/zabbix-docker.git
 cd zabbix-stack
 ```
 
